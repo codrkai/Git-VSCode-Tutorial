@@ -27,3 +27,10 @@ git add .
 git commit -m "ADD A COMMENT"
 git push origin master
 ```
+
+Some Basic VSCode Commands
+Bring up the Pallet:  CMD + SHIFT + P
+Bring up the Terminal: CTRL + ~
+
+Show hidden files on Mac
+CMD + SHIFT + .
