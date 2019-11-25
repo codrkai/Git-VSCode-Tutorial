@@ -22,6 +22,7 @@ Your Github should now be linked with your SSH Public Key. Now create a Reposito
 
 Some Basic Git Commands
 ```javascript
+git init
 git status
 git add .
 git commit -m "ADD A COMMENT"
